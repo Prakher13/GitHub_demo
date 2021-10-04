@@ -1,3 +1,3 @@
 # Demo
 
-Gtting familar with GitHub.
+Getting familar with GitHub.
